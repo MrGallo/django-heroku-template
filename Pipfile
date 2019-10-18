@@ -8,6 +8,9 @@ django = "*"
 gunicorn = "*"
 psycopg2-binary = "*"
 django-heroku = "*"
+
+
+[dev-packages]
 redgreenunittest = "*"
 coverage = "*"
 mixer = "*"

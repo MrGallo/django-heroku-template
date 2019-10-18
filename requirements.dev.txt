@@ -1,5 +1,0 @@
-django
-psycopg2-binary
-redgreenunittest
-coverage
-mixer
